@@ -15,6 +15,7 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 * [Не морочьте мне голову со своим функциональным программированием](https://www.youtube.com/watch?v=mmvHC3UgYmg)
 * [Functional programming sparks joy](https://rachelcarmena.github.io/2019/08/05/functional-programming-sparks-joy.html)
 * [Switching from OOP to Functional Programming](https://medium.com/@olxc/switching-from-oop-to-functional-programming-4187698d4d3)
+* [Functional Programming Fundamentals](https://www.matthewgerstman.com/tech/functional-programming-fundamentals/)
 * [Advanced Functional Programming concepts made easy](https://medium.com/nmc-techblog/advanced-functional-programming-concepts-made-easy-2108d227b5ab)
 * [Your easy guide to Monads, Applicatives, & Functors](https://medium.com/@lettier/your-easy-guide-to-monads-applicatives-functors-862048d61610)
 * [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
