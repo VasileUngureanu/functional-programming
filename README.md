@@ -8,12 +8,17 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 
 ## Contents
 
+### Enough to be dangerous
+
 * [The Functional Style](https://codurance.com/2018/08/09/the-functional-style-part-1/)
-* [Functional Programming for Kotlin™ Developers](https://www.functionalhub.com/pages/functional-programming-in-kotlin)
 * [OOP v̶s̶ and FP](https://www.youtube.com/watch?v=p6cZO5V2ehw)
+* [Functional programming sparks joy](https://rachelcarmena.github.io/2019/08/05/functional-programming-sparks-joy.html)
+
+### To master, continue with
+
+* [Functional Programming for Kotlin™ Developers](https://www.functionalhub.com/pages/functional-programming-in-kotlin)
 * [Functional Programming in Kotlin](https://www.youtube.com/watch?v=pFbDZQ9M76Y)
 * [Не морочьте мне голову со своим функциональным программированием](https://www.youtube.com/watch?v=mmvHC3UgYmg)
-* [Functional programming sparks joy](https://rachelcarmena.github.io/2019/08/05/functional-programming-sparks-joy.html)
 * [Switching from OOP to Functional Programming](https://medium.com/@olxc/switching-from-oop-to-functional-programming-4187698d4d3)
 * [Functional Programming Fundamentals](https://www.matthewgerstman.com/tech/functional-programming-fundamentals/)
 * [Advanced Functional Programming concepts made easy](https://medium.com/nmc-techblog/advanced-functional-programming-concepts-made-easy-2108d227b5ab)
