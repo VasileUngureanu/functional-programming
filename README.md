@@ -28,6 +28,7 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 * [FP vs. OO](https://blog.cleancoder.com/uncle-bob/2018/04/13/FPvsOO.html)
 * [OO vs FP](https://blog.cleancoder.com/uncle-bob/2014/11/24/FPvsOO.html)
 * [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide-old/content/)
+* [The Principles of Functional Programming](https://www.freecodecamp.org/news/the-principles-of-functional-programming/)
 
 ## Usage
 
